@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [E-commerce App](https://bestiespom.netlify.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I'm proficient in **React JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-riocabalda.netlify.app/](https://portfolio-riocabalda.netlify.app/)
 
