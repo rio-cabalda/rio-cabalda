@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://portfolio-riocabalda.netlify.app/">
+  <a href="https://portfolio-riocabalda.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="MasterHead" />
   </a>
 </p>
