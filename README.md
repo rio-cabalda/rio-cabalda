@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://portfolio-riocabalda.netlify.app/">
-    <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" />
+    <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="MasterHead" />
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Rio Joy Cabalda</h1>
